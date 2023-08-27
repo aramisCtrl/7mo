@@ -1,0 +1,7 @@
+C:\Users\Fiski\OneDrive\Escritorio\tres_imágenes\tres_imágenes\obj\Debug\tres_imágenes.csprojResolveAssemblyReference.cache
+C:\Users\Fiski\OneDrive\Escritorio\tres_imágenes\tres_imágenes\obj\Debug\tres_imágenes.MainForm.resources
+C:\Users\Fiski\OneDrive\Escritorio\tres_imágenes\tres_imágenes\obj\Debug\tres_imágenes.csproj.GenerateResource.Cache
+C:\Users\Fiski\OneDrive\Escritorio\tres_imágenes\tres_imágenes\bin\Debug\tres_imágenes.exe
+C:\Users\Fiski\OneDrive\Escritorio\tres_imágenes\tres_imágenes\bin\Debug\tres_imágenes.pdb
+C:\Users\Fiski\OneDrive\Escritorio\tres_imágenes\tres_imágenes\obj\Debug\tres_imágenes.exe
+C:\Users\Fiski\OneDrive\Escritorio\tres_imágenes\tres_imágenes\obj\Debug\tres_imágenes.pdb
